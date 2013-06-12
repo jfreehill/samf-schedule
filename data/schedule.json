@@ -1,0 +1,704 @@
+{
+  "artists": [
+		{
+			"name": "Moiez",
+			"day": 1,
+			"stage": 1,
+			"start_time": "15:30",
+			"end_time": "16:30"
+		},
+		{
+			"name": "Radiohir w/ MC Zulu, Striz, Justin Reed",
+			"day": 1,
+			"stage": 2,
+			"start_time": "15:30",
+			"end_time": "16:30"
+		},
+		{
+			"name": "Konrad Gainnes",
+			"day": 1,
+			"stage": 3,
+			"start_time": "15:30",
+			"end_time": "16:30"
+		},
+		{
+			"name": "Ekho + J. Worra",
+			"day": 1,
+			"stage": 4,
+			"start_time": "15:30",
+			"end_time": "16:30"
+		},
+		{
+			"name": "Dean Cohen",
+			"day": 1,
+			"stage": 1,
+			"start_time": "16:30",
+			"end_time": "17:30"
+		},
+		{
+			"name": "Nathan Scott",
+			"day": 1,
+			"stage": 2,
+			"start_time": "16:30",
+			"end_time": "17:30"
+		},
+		{
+			"name": "Deletah",
+			"day": 1,
+			"stage": 3,
+			"start_time": "16:30",
+			"end_time": "17:30"
+		},
+   		{
+   			"name": "Louis the Child",
+   			"day": 1,
+   			"stage": 4,
+   			"start_time": "16:30",
+   			"end_time": "17:30"
+   		},
+   		{
+   			"name": "PANTyRAID",
+   			"day": 1,
+   			"stage": 1,
+   			"start_time": "17:30",
+   			"end_time": "18:30"
+   		},
+   		{
+   			"name": "DJ Bl3nd",
+   			"day": 1,
+   			"stage": 2,
+   			"start_time": "17:30",
+   			"end_time": "18:30"
+   		},
+   		{
+   			"name": "Danger Wayne",
+   			"day": 1,
+   			"stage": 3,
+   			"start_time": "17:30",
+   			"end_time": "18:30"
+   		},
+   		{
+   			"name": "VIPeeps",
+   			"day": 1,
+   			"stage": 4,
+   			"start_time": "17:30",
+   			"end_time": "18:30"
+   		},
+   		{
+   			"name": "Bingo Players",
+   			"day": 1,
+   			"stage": 1,
+   			"start_time": "18:30",
+   			"end_time": "19:30"
+   		},
+   		{
+   			"name": "Robbie Rivera",
+   			"day": 1,
+   			"stage": 2,
+   			"start_time": "18:30",
+   			"end_time": "19:30"
+   		},
+   		{
+   			"name": "POPSH!T",
+   			"day": 1,
+   			"stage": 3,
+   			"start_time": "18:30",
+   			"end_time": "19:30"
+   		},
+   		{
+   			"name": "DJ Magix",
+   			"day": 1,
+   			"stage": 4,
+   			"start_time": "18:30",
+   			"end_time": "19:30"
+   		},
+   		{
+   			"name": "Dirty South",
+   			"day": 1,
+   			"stage": 1,
+   			"start_time": "19:30",
+   			"end_time": "20:30"
+   		},
+   		{
+   			"name": "Zomboy",
+   			"day": 1,
+   			"stage": 2,
+   			"start_time": "19:30",
+   			"end_time": "20:30"
+   		},
+   		{
+   			"name": "Milk N Cookies",
+   			"day": 1,
+   			"stage": 3,
+   			"start_time": "19:30",
+   			"end_time": "20:30"
+   		},
+   		{
+   			"name": "Digital Departure",
+   			"day": 1,
+   			"stage": 4,
+   			"start_time": "19:30",
+   			"end_time": "20:30"
+   		},
+   		{
+   			"name": "Nero",
+   			"day": 1,
+   			"stage": 1,
+   			"start_time": "20:30",
+   			"end_time": "21:30"
+   		},
+   		{
+   			"name": "John Dahlback",
+   			"day": 1,
+   			"stage": 2,
+   			"start_time": "20:30",
+   			"end_time": "21:30"
+   		},
+   		{
+   			"name": "Paul Universe",
+   			"day": 1,
+   			"stage": 3,
+   			"start_time": "20:30",
+   			"end_time": "21:30"
+   		},
+   		{
+   			"name": "DJ Rozz",
+   			"day": 1,
+   			"stage": 4,
+   			"start_time": "20:30",
+   			"end_time": "21:30"
+   		},
+   		{
+   			"name": "Moby",
+   			"day": 1,
+   			"stage": 1,
+   			"start_time": "21:30",
+   			"end_time": "23:00"
+   		},
+   		{
+   			"name": "R3hab",
+   			"day": 1,
+   			"stage": 2,
+   			"start_time": "21:30",
+   			"end_time": "23:00"
+   		},
+   		{
+			"name": "Jack Trash",
+			"day": 2,
+			"stage": 1,
+			"start_time": "12:30",
+			"end_time": "13:30"
+		},
+		{
+			"name": "Robots on the Run",
+			"day": 2,
+			"stage": 2,
+			"start_time": "12:30",
+			"end_time": "13:30"
+		},
+		{
+			"name": "PHNM",
+			"day": 2,
+			"stage": 3,
+			"start_time": "12:30",
+			"end_time": "13:30"
+		},
+		{
+			"name": "Adam Abstrakt",
+			"day": 2,
+			"stage": 4,
+			"start_time": "12:30",
+			"end_time": "13:30"
+		},
+		{
+			"name": "Ryan B",
+			"day": 2,
+			"stage": 1,
+			"start_time": "12:30",
+			"end_time": "13:30"
+		},
+		{
+			"name": "Knuckle Children",
+			"day": 2,
+			"stage": 2,
+			"start_time": "13:30",
+			"end_time": "14:30"
+		},
+		{
+			"name": "DJ Solo",
+			"day": 2,
+			"stage": 3,
+			"start_time": "13:30",
+			"end_time": "14:30"
+		},
+		{
+			"name": "Dakota",
+			"day": 2,
+			"stage": 4,
+			"start_time": "13:30",
+			"end_time": "14:30"
+		},
+		{
+			"name": "Auto Body",
+			"day": 2,
+			"stage": 1,
+			"start_time": "14:30",
+			"end_time": "15:30"
+		},
+		{
+			"name": "Team Bayside High",
+			"day": 2,
+			"stage": 2,
+			"start_time": "14:30",
+			"end_time": "15:30"
+		},
+		{
+			"name": "Stratus",
+			"day": 2,
+			"stage": 3,
+			"start_time": "14:30",
+			"end_time": "15:30"
+		},
+		{
+			"name": "Mighty Thor",
+			"day": 2,
+			"stage": 4,
+			"start_time": "14:30",
+			"end_time": "15:30"
+		},
+		{
+			"name": "DotEXE",
+			"day": 2,
+			"stage": 1,
+			"start_time": "15:30",
+			"end_time": "16:30"
+		},
+		{
+			"name": "Oliver",
+			"day": 2,
+			"stage": 2,
+			"start_time": "15:30",
+			"end_time": "16:30"
+		},
+		{
+			"name": "Don Dada",
+			"day": 2,
+			"stage": 3,
+			"start_time": "15:30",
+			"end_time": "16:30"
+		},
+		{
+			"name": "Kings Of Class",
+			"day": 2,
+			"stage": 4,
+			"start_time": "15:30",
+			"end_time": "16:30"
+		},
+		{
+			"name": "Savoy",
+			"day": 2,
+			"stage": 1,
+			"start_time": "16:30",
+			"end_time": "17:30"
+		},
+		{
+			"name": "Walden",
+			"day": 2,
+			"stage": 2,
+			"start_time": "16:30",
+			"end_time": "17:30"
+		},
+		{
+			"name": "Lucky Date",
+			"day": 2,
+			"stage": 3,
+			"start_time": "16:30",
+			"end_time": "17:30"
+		},
+		{
+			"name": "Bisharat",
+			"day": 2,
+			"stage": 4,
+			"start_time": "16:30",
+			"end_time": "17:30"
+		},
+		{
+			"name": "AN21 & Max Vangeli",
+			"day": 2,
+			"stage": 1,
+			"start_time": "17:30",
+			"end_time": "18:30"
+		},
+		{
+			"name": "Gramatik",
+			"day": 2,
+			"stage": 2,
+			"start_time": "17:30",
+			"end_time": "18:30"
+		},
+		{
+			"name": "Felix Da Housecat",
+			"day": 2,
+			"stage": 3,
+			"start_time": "17:30",
+			"end_time": "18:30"
+		},
+		{
+			"name": "David S",
+			"day": 2,
+			"stage": 4,
+			"start_time": "17:30",
+			"end_time": "18:30"
+		},
+		{
+			"name": "Flosstradamus",
+			"day": 2,
+			"stage": 1,
+			"start_time": "18:30",
+			"end_time": "19:30"
+		},
+		{
+			"name": "NERVO",
+			"day": 2,
+			"stage": 2,
+			"start_time": "18:30",
+			"end_time": "19:30"
+		},
+		{
+			"name": "12th Planet",
+			"day": 2,
+			"stage": 3,
+			"start_time": "18:30",
+			"end_time": "19:30"
+		},
+		{
+			"name": "Na Palm w/ Sephano & Torio",
+			"day": 2,
+			"stage": 4,
+			"start_time": "18:30",
+			"end_time": "19:30"
+		},
+		{
+			"name": "Ricky Romero",
+			"day": 2,
+			"stage": 1,
+			"start_time": "19:30",
+			"end_time": "20:30"
+		},
+		{
+			"name": "Zedd",
+			"day": 2,
+			"stage": 2,
+			"start_time": "19:30",
+			"end_time": "20:30"
+		},
+		{
+			"name": "Green Velvet (Live)",
+			"day": 2,
+			"stage": 3,
+			"start_time": "19:30",
+			"end_time": "20:30"
+		},
+		{
+			"name": "Xposur",
+			"day": 2,
+			"stage": 4,
+			"start_time": "19:30",
+			"end_time": "20:30"
+		},
+		{
+			"name": "Wolfgang Gartner",
+			"day": 2,
+			"stage": 1,
+			"start_time": "20:30",
+			"end_time": "21:30"
+		},
+		{
+			"name": "Zeds Dead",
+			"day": 2,
+			"stage": 2,
+			"start_time": "20:30",
+			"end_time": "21:30"
+		},
+		{
+			"name": "Paul Oakenfold",
+			"day": 2,
+			"stage": 3,
+			"start_time": "20:30",
+			"end_time": "21:30"
+		},
+		{
+			"name": "The Dub Knight",
+			"day": 2,
+			"stage": 4,
+			"start_time": "20:30",
+			"end_time": "21:30"
+		},
+		{
+			"name": "Bassnectar",
+			"day": 2,
+			"stage": 1,
+			"start_time": "21:30",
+			"end_time": "23:00"
+		},
+		{
+			"name": "Xonic",
+			"day": 3,
+			"stage": 1,
+			"start_time": "12:30",
+			"end_time": "13:30"
+		},
+		{
+			"name": "Gun Love",
+			"day": 3,
+			"stage": 2,
+			"start_time": "12:30",
+			"end_time": "13:30"
+		},
+		{
+			"name": "Alex Kislov",
+			"day": 3,
+			"stage": 3,
+			"start_time": "12:30",
+			"end_time": "13:30"
+		},
+		{
+			"name": "Dave Neven",
+			"day": 3,
+			"stage": 4,
+			"start_time": "12:30",
+			"end_time": "13:30"
+		},
+		{
+			"name": "LoBounce",
+			"day": 3,
+			"stage": 1,
+			"start_time": "13:30",
+			"end_time": "14:30"
+		},
+		{
+			"name": "DJ Intel",
+			"day": 3,
+			"stage": 2,
+			"start_time": "13:30",
+			"end_time": "14:30"
+		},
+		{
+			"name": "Mario Florek + Peter Kontor",
+			"day": 3,
+			"stage": 3,
+			"start_time": "13:30",
+			"end_time": "14:30"
+		},
+		{
+			"name": "Enoptix",
+			"day": 3,
+			"stage": 4,
+			"start_time": "13:30",
+			"end_time": "14:30"
+		},
+		{
+			"name": "Porn and Chicken",
+			"day": 3,
+			"stage": 1,
+			"start_time": "14:30",
+			"end_time": "15:30"
+		},
+		{
+			"name": "Trentino",
+			"day": 3,
+			"stage": 2,
+			"start_time": "14:30",
+			"end_time": "15:30"
+		},
+		{
+			"name": "Orchard Lounge",
+			"day": 3,
+			"stage": 3,
+			"start_time": "14:30",
+			"end_time": "15:30"
+		},
+		{
+			"name": "Gus Karas",
+			"day": 3,
+			"stage": 4,
+			"start_time": "14:30",
+			"end_time": "15:30"
+		},
+		{
+			"name": "Carnage",
+			"day": 3,
+			"stage": 1,
+			"start_time": "15:30",
+			"end_time": "16:30"
+		},
+		{
+			"name": "Green Lantern",
+			"day": 3,
+			"stage": 2,
+			"start_time": "15:30",
+			"end_time": "16:30"
+		},
+		{
+			"name": "Topher Jones",
+			"day": 3,
+			"stage": 3,
+			"start_time": "15:30",
+			"end_time": "16:30"
+		},
+		{
+			"name": "Ramsen",
+			"day": 3,
+			"stage": 4,
+			"start_time": "15:30",
+			"end_time": "16:30"
+		},
+		{
+			"name": "Showtek",
+			"day": 3,
+			"stage": 1,
+			"start_time": "16:30",
+			"end_time": "17:30"
+		},
+		{
+			"name": "Break Science",
+			"day": 3,
+			"stage": 2,
+			"start_time": "16:30",
+			"end_time": "17:30"
+		},
+		{
+			"name": "Stafford Bros",
+			"day": 3,
+			"stage": 3,
+			"start_time": "16:30",
+			"end_time": "17:30"
+		},
+		{
+			"name": "Boji",
+			"day": 3,
+			"stage": 4,
+			"start_time": "16:30",
+			"end_time": "17:30"
+		},
+		{
+			"name": "Krewella",
+			"day": 3,
+			"stage": 1,
+			"start_time": "17:30",
+			"end_time": "18:30"
+		},
+		{
+			"name": "Minnesota",
+			"day": 3,
+			"stage": 2,
+			"start_time": "17:30",
+			"end_time": "18:30"
+		},
+		{
+			"name": "Clockwork",
+			"day": 3,
+			"stage": 3,
+			"start_time": "17:30",
+			"end_time": "18:30"
+		},
+		{
+			"name": "Erik K",
+			"day": 3,
+			"stage": 4,
+			"start_time": "17:30",
+			"end_time": "18:30"
+		},
+		{
+			"name": "ATB",
+			"day": 3,
+			"stage": 1,
+			"start_time": "18:30",
+			"end_time": "19:30"
+		},
+		{
+			"name": "Mord Fustang",
+			"day": 3,
+			"stage": 2,
+			"start_time": "18:30",
+			"end_time": "19:30"
+		},
+		{
+			"name": "Joachim Garraud",
+			"day": 3,
+			"stage": 3,
+			"start_time": "18:30",
+			"end_time": "19:30"
+		},
+		{
+			"name": "Regulators",
+			"day": 3,
+			"stage": 4,
+			"start_time": "18:30",
+			"end_time": "19:30"
+		},
+		{
+			"name": "Porter Robinson",
+			"day": 3,
+			"stage": 1,
+			"start_time": "19:30",
+			"end_time": "20:30"
+		},
+		{
+			"name": "Chuckie",
+			"day": 3,
+			"stage": 2,
+			"start_time": "19:30",
+			"end_time": "20:30"
+		},
+		{
+			"name": "Figure",
+			"day": 3,
+			"stage": 3,
+			"start_time": "19:30",
+			"end_time": "20:30"
+		},
+		{
+			"name": "NORdjs",
+			"day": 3,
+			"stage": 4,
+			"start_time": "19:30",
+			"end_time": "20:30"
+		},
+		{
+			"name": "Excision",
+			"day": 3,
+			"stage": 1,
+			"start_time": "20:30",
+			"end_time": "21:30"
+		},
+		{
+			"name": "Boys Noize",
+			"day": 3,
+			"stage": 2,
+			"start_time": "20:30",
+			"end_time": "21:30"
+		},
+		{
+			"name": "Tommy Trash",
+			"day": 3,
+			"stage": 3,
+			"start_time": "20:30",
+			"end_time": "21:30"
+		},
+		{
+			"name": "Compact Disco",
+			"day": 3,
+			"stage": 4,
+			"start_time": "20:30",
+			"end_time": "21:30"
+		},
+		{
+			"name": "Calvin Harris",
+			"day": 3,
+			"stage": 1,
+			"start_time": "21:30",
+			"end_time": "23:00"
+		}
+	]
+}
