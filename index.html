@@ -1,0 +1,36 @@
+<!doctype html>
+<html>
+<head>
+  <!-- <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.0.7/angular.min.js"></script> -->
+  <script src="//cdnjs.cloudflare.com/ajax/libs/zepto/1.0/zepto.min.js"></script>
+
+</head>
+<body>
+<h1>SAMF 2013 Schedule</h1>
+<h2>Artists</h2>
+<div id="artists">
+  <input class="search" />  
+  <span class="sort" data-sort="name">Name</span>
+  <span class="sort" data-sort="day">Day</span>
+  <span class="sort" data-sort="stage">Stage</span>
+  <ul class="list">
+  
+  </ul>
+</div>
+
+<script id="artistTemplate" type="text/html">
+{{#artists}}
+<li class="artist">
+  <h3 class="name">{{ name }}</h3>
+  <p><b>Day:</b> <span class="day">{{ day }}</span></p>
+  <p><b>Stage:</b> <span class="stage">{{ stage }}</span></p>
+  <p><b>Time:</b> <span class="start-time">{{ start_time }}</span>-<span class="end-time">{{ end_time }}</span></p>
+</li>
+{{/artists}}
+</script>
+
+<script src="js/doT.min.js"></script>
+<script src="js/list.min.js"></script>
+<script src="js/app.js"></script>
+</body>
+</html>
