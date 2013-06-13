@@ -1,29 +1,34 @@
 <!doctype html>
 <html>
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.min.css">
   <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
-<h1>SAMF 2013 Schedule</h1>
-<h2>Artists</h2>
-<div id="artists">
-  <input class="search" />  
-  <span class="sort" data-sort="name">Name</span>
-  <span class="sort" data-sort="day">Day</span>
-  <span class="sort" data-sort="stage">Stage</span>
-  <span class="sort" data-sort="start-time">Time</span>
-  <ul class="list">
+
+<div id="artists" class="container-fluid">
+  <h1>SAMF 2013 Schedule</h1>
+  <h2>Artists</h2>
+  <div class="form-actions">
+    <input type="text" class="search" placeholder="Start typing a name" /><span class="sort btn" data-sort="name">Name</span>
+    <span class="sort btn" data-sort="day">Day</span>
+    <span class="sort btn" data-sort="stage">Stage</span>
+    <span class="sort btn" data-sort="start-time">Time</span>
+  </div>
+  <ul class="list ">
   
   </ul>
 </div>
 
 <script id="artistTemplate" type="text/x-dot-template">
 {{~it.artists :artist:index}}
-<li class="artist">
+<li class="artist row">
   <h3 class="name">{{=artist.name}}</h3>
-  <p><b>Day</b>: <span class="day">{{=artist.day}}</span></p>
-  <p><b>Stage</b>: <span class="stage">{{=artist.stage}}</span></p>
-  <p><b>Time</b>: <span class="start-time">{{=artist.start_time}}</span> &ndash; <span class="end-time">{{=artist.end_time}}</span></p>
+  <div><b>Day</b> <span class="day">{{=artist.day}}</span></div>
+  <div><b>Stage</b> <span class="stage">{{=artist.stage}}</span></div>
+  <div><b>Time</b> <span class="start-time">{{=artist.start_time}}</span> &ndash; <span class="end-time">{{=artist.end_time}}</span></div>
 </li>
 {{~}}
 </script>
