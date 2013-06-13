@@ -17,7 +17,7 @@ function renderData () {
 }
 
 function viewRender () {
-	var days = ["Friday","Saturday", "Sunday"];
+	var days = ["FRI","SAT", "SUN"];
 
 	$('.day').each(function(){
 		var d = parseInt($(this).text()) - 1;

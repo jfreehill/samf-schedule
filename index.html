@@ -4,31 +4,34 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="css/bootstrap-responsive.min.css">
+  <link href='http://fonts.googleapis.com/css?family=Titillium+Web:400,700' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 <body>
 
 <div id="artists" class="container-fluid">
-  <h1>SAMF 2013 Schedule</h1>
-  <h2>Artists</h2>
+  <img class="logo" src="img/sa-logo.png" alt="Spring Awakening 2013" />
+  <h2>2013 Schedule</h2>
   <div class="form-actions">
-    <input type="text" class="search" placeholder="Start typing a name" /><span class="sort btn" data-sort="name">Name</span>
-    <span class="sort btn" data-sort="day">Day</span>
+    <input type="text" class="search span12" placeholder="Type a name to search" />
+<!--     <span class="sort btn" data-sort="name">Name</span>
+<span class="sort btn" data-sort="day">Day</span>
     <span class="sort btn" data-sort="stage">Stage</span>
-    <span class="sort btn" data-sort="start-time">Time</span>
+    <span class="sort btn" data-sort="start-time">Time</span> -->
   </div>
   <ul class="list ">
-  
   </ul>
 </div>
 
 <script id="artistTemplate" type="text/x-dot-template">
 {{~it.artists :artist:index}}
 <li class="artist row">
-  <h3 class="name">{{=artist.name}}</h3>
-  <div><b>Day</b> <span class="day">{{=artist.day}}</span></div>
-  <div><b>Stage</b> <span class="stage">{{=artist.stage}}</span></div>
-  <div><b>Time</b> <span class="start-time">{{=artist.start_time}}</span> &ndash; <span class="end-time">{{=artist.end_time}}</span></div>
+  <section class="name"><h3>{{=artist.name}}</h3></section>
+  <section class="info">
+    <div>day <b><span class="day">{{=artist.day}}</span></b></div>
+    <div class="time"><span class="start-time">{{=artist.start_time}}</span> <i class="icon-arrow-down"></i> <span class="end-time">{{=artist.end_time}}</span></div>
+    <div>stage <b><span class="stage">{{=artist.stage}}</span></b></div>
+  </section>
 </li>
 {{~}}
 </script>

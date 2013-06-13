@@ -1,5 +1,25 @@
+body {
+	background-color: #000d1a;
+	background: #000d1a url(../img/bg-pattern.png);
+}
+
 .sort {
 	cursor: pointer;
+}
+
+h1, h2 {
+	font-family: 'Titillium Web', sans-serif;
+	text-transform: uppercase;
+	color: white;
+	text-align: center;
+	text-shadow: rgb(178, 224, 255) 0 0px 40px, rgb(178, 224, 255) 0 0px 5px;
+}
+
+.logo {
+	display: block;
+	margin: 0 auto;
+	max-width: 50%;
+	margin-top: 15px;
 }
 
 #artists ul {
@@ -12,33 +32,60 @@
 	padding: 0;
 	margin: 10px 0;
 	width: 100%;
-	border: 1px solid #ccc;
-	height: 5em;
+	height: 5.5em;
+	position: relative;
 	box-sizing: border-box;
+	background-color: rgba(255,255,255,0.8);
+	border: 1px solid rgb(72, 175, 228);
 }
 
-.artist h3 {
-	display: block;
-	float: left;
-	width: 62%;
-	line-height: 1.5em;
-	padding-left: 2%;
-	box-sizing: border-box;
+h3 {
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 700;
+	text-align: left;
+	line-height: 1em;
+	font-size: 1.75em;
+	margin: 0;
+}
+.name {
+	width: 300px;
+	margin: 0;
+	padding-left: 5%;
+	left: 0;
+	display: table-cell;
+	vertical-align: middle;
+	height: 5.5em;	
+}
+
+.artist .info {
+	font-family: 'Titillium Web', sans-serif;
+	position: absolute;
+	height: 100%;
+	right: 0;
+	top: 0;
 }
 
 .artist div {
-	display: inline-block;
-	width: 12%;
+	display: block;
+	width: 80px;
 	box-sizing: border-box;
 	text-align: center;
-	border-left: 1px solid #ddd;
+	border-left: 1px solid #333;
 	height: 100%;
+	float: left;
+	vertical-align: top;
 }
 
 .artist div b {
+	font-size: 1.25em;
 	display: block;
 	margin-bottom: 0.5em;
 	padding-top: 0.5em;
+}
+
+.start-time,
+.end-time {
+	display: block;
 }
 
 input.search {
