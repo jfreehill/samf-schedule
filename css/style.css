@@ -65,7 +65,7 @@ h3 {
 	top: 0;
 }
 
-.artist div {
+.artist .info div {
 	display: block;
 	width: 80px;
 	box-sizing: border-box;
@@ -74,6 +74,10 @@ h3 {
 	height: 100%;
 	float: left;
 	vertical-align: top;
+	padding-top: 5px;
+}
+.artist .info .time {
+	padding-top: 6px;
 }
 
 .artist div b {
@@ -81,6 +85,13 @@ h3 {
 	display: block;
 	margin-bottom: 0.5em;
 	padding-top: 0.5em;
+}
+
+[class^="icon-"] {
+	vertical-align: middle;
+}
+.start-time {
+	margin-bottom: -2px;
 }
 
 .start-time,
@@ -91,4 +102,16 @@ h3 {
 input.search {
 	margin-bottom: 0;
 	margin-right: 10px;
+}
+
+@media (max-width: 767px) {
+	body {
+		padding: 0 10px;
+	}
+	.artist .info div {
+		width: 60px;
+	}
+	.artist h3 {
+		max-width: 50%;
+	}
 }
