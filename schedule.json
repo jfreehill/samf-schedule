@@ -39,8 +39,8 @@
 			"name": "Nathan Scott",
 			"day": 1,
 			"stage": 2,
-			"start_time": "16:30",
-			"end_time": "17:30"
+			"start_time": "15:00",
+			"end_time": "16:15"
 		},
 		{
 			"name": "Deletah",
@@ -67,8 +67,8 @@
    			"name": "DJ Bl3nd",
    			"day": 1,
    			"stage": 2,
-   			"start_time": "17:30",
-   			"end_time": "18:30"
+   			"start_time": "16:15",
+   			"end_time": "17:15"
    		},
    		{
    			"name": "Danger Wayne",
@@ -95,8 +95,8 @@
    			"name": "Robbie Rivera",
    			"day": 1,
    			"stage": 2,
-   			"start_time": "18:30",
-   			"end_time": "19:30"
+   			"start_time": "17:15",
+   			"end_time": "18:15"
    		},
    		{
    			"name": "POPSH!T",
@@ -123,8 +123,8 @@
    			"name": "Zomboy",
    			"day": 1,
    			"stage": 2,
-   			"start_time": "19:30",
-   			"end_time": "20:30"
+   			"start_time": "18:15",
+   			"end_time": "19:15"
    		},
    		{
    			"name": "Milk N Cookies",
@@ -151,8 +151,8 @@
    			"name": "John Dahlback",
    			"day": 1,
    			"stage": 2,
-   			"start_time": "20:30",
-   			"end_time": "21:30"
+   			"start_time": "19:15",
+   			"end_time": "20:15"
    		},
    		{
    			"name": "Paul Universe",
@@ -179,8 +179,8 @@
    			"name": "R3hab",
    			"day": 1,
    			"stage": 2,
-   			"start_time": "21:30",
-   			"end_time": "23:00"
+   			"start_time": "20:15",
+   			"end_time": "21:30"
    		},
    		{
 			"name": "Jack Trash",
