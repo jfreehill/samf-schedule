@@ -1,6 +1,6 @@
 samf-schedule
 =============
 
-May become: Web app for checking the schedule of the Spring Awakening Music Festival 2013
+What it is: A "Web app" for quickly checking the schedule of the Spring Awakening Music Festival 2013.
 
-Right now: JSON file of 2013 lineup
+What it isn't: A custom schedule creator. This is something I would eventually like it to be though.
